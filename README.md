@@ -1,12 +1,12 @@
 # AluraBook
 Projeto feito durante curso de responsividade da alura
 
-#tecnologias 
-.html
-.css
-.vscode
+# tecnologias 
+. html
+. css
+. vscode
 
-#tamanhos de telas
+# tamanhos de telas
 
 ![para pc](https://github.com/sossego922/AluraBook/assets/62663466/d5f5c296-c757-4a9e-a108-2fdafc54dcf8)
 
